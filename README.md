@@ -18,3 +18,6 @@ Driver installations
 Hardware failure
 
 The application is coded in PowerShell using WPF for the UI, and MaterialDesigninXaml for the UI styling.
+
+Documentation for use can be found on my blog:
+http://smsagent.wordpress.com/tools/reliability-viewer-for-windows/
