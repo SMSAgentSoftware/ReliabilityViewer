@@ -1,6 +1,6 @@
 # ReliabilityViewer
 
-Reliability Viewer for Windows is a free application that displays reliability data for a local or remote computer.  
+Reliability Viewer for Windows displays reliability data for a local or remote computer.  
 It is based on the concept of the built-in Windows Reliability Monitor, but allows you to also view data for remote computers (PS Remoting required), something the built-in monitor cannot do since Windows Vista.
 
 The application allows you to review the entire reliability history for a computer in a datagrid, and enables you to filter the records to search for specific events.
@@ -17,7 +17,7 @@ Blue-screens
 Driver installations
 Hardware failure
 
-The application is coded in PowerShell using WPF for the UI, and MaterialDesigninXaml for the UI styling.
-
-Documentation for use can be found on my blog:
+More details on my blog:
 http://smsagent.wordpress.com/tools/reliability-viewer-for-windows/
+
+![Screenshot](https://raw.githubusercontent.com/SMSAgentSoftware/ReliabilityViewer/master/Screenshot.png)
